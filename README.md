@@ -18,6 +18,8 @@ This remediation configures the required registry settings to enable transcripti
 - After running remediation script:
 
 ---
+<img width="1128" alt="Screenshot 2025-07-05 at 16 48 38" src="https://github.com/user-attachments/assets/47887c64-1bfa-49c5-b916-6cdb2de1f03c" />
+
 https://github.com/JohnLunnon-cyber/STIGS-WN10-CC-000327/blob/main/Screenshot%202025-07-05%20at%2016.48.38.png
 
 ---
