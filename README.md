@@ -15,6 +15,11 @@ This remediation configures the required registry settings to enable transcripti
 - Helps detect misuse of administrative privileges.
 - Meets compliance requirements defined by security frameworks such as DISA STIGs.
 
+- After running remediation script:
+
+---
+https://github.com/JohnLunnon-cyber/STIGS-WN10-CC-000327/blob/main/Screenshot%202025-07-05%20at%2016.48.38.png
+
 ---
 
 ## Remediation Script
@@ -74,10 +79,7 @@ Set-ItemProperty -Path $transcriptionPath -Name "IncludeInvocationHeader" -Value
 
 Write-Host "PowerShell Transcription has been enabled and configured."
 
-After running remediation script:
 
----
-https://github.com/JohnLunnon-cyber/STIGS-WN10-CC-000327/blob/main/Screenshot%202025-07-05%20at%2016.48.38.png
 
 
 
