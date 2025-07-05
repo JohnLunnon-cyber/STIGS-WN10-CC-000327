@@ -76,10 +76,10 @@ Write-Host "PowerShell Transcription has been enabled and configured."
 
 After running remediation script:
 
-![Screenshot showing successful remediation](<img width="1128" alt="Screenshot 2025-07-05 at 16 48 38" src="https://github.com/user-attachments/assets/a09bd962-2b67-43e7-a7ab-317de3a1d4a1" />
-)
 
 
+
+[WN10-CC-000327 Remediation.pdf](https://github.com/user-attachments/files/21079140/WN10-CC-000327.Remediation.pdf)
 
 
 
