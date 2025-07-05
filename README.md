@@ -75,6 +75,8 @@ Set-ItemProperty -Path $transcriptionPath -Name "IncludeInvocationHeader" -Value
 Write-Host "PowerShell Transcription has been enabled and configured."
 
 After running remediation script:
-<img width="1128" alt="Screenshot 2025-07-05 at 16 48 38" src="https://github.com/user-attachments/assets/7dd54591-6b5f-4103-8efd-ab8dcbb770bf" />
+![After running remediation script](<img width="1128" alt="Screenshot 2025-07-05 at 16 48 38" src="https://github.com/user-attachments/assets/3da36756-81d1-4f09-9298-cc1064748e67" />)
+
+
 
 
