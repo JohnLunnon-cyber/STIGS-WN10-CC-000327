@@ -76,7 +76,7 @@ Write-Host "PowerShell Transcription has been enabled and configured."
 
 After running remediation script:
 
-
+---
 https://github.com/JohnLunnon-cyber/STIGS-WN10-CC-000327/blob/main/Screenshot%202025-07-05%20at%2016.48.38.png
 
 
