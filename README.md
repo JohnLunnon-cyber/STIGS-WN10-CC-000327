@@ -77,9 +77,7 @@ Write-Host "PowerShell Transcription has been enabled and configured."
 After running remediation script:
 
 
-[<img width="1128" alt="Screenshot 2025-07-05 at 16 48 38" src="https://github.com/user-attachments/assets/dae726d9-b1c8-43a9-aff7-fd36e9b00b3f" />
-
-![<img width="1128" alt="Screenshot 2025-07-05 at 16 48 38" src="https://github.com/user-attachments/assets/dae726d9-b1c8-43a9-aff7-fd36e9b00b3f" />](https://github.com/user-attachments/assets/dae726d9-b1c8-43a9-aff7-fd36e9b00b3f)](https://github.com/JohnLunnon-cyber/STIGS-WN10-CC-000327/blob/main/Screenshot%202025-07-05%20at%2016.48.38.png)
+https://github.com/JohnLunnon-cyber/STIGS-WN10-CC-000327/blob/main/Screenshot%202025-07-05%20at%2016.48.38.png
 
 
 
