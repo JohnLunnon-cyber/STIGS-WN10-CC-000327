@@ -6,6 +6,10 @@
 **Requirement:** PowerShell Transcription must be enabled on Windows 10 systems.
 
 PowerShell is a powerful administrative tool, but it can be exploited by threat actors to run malicious commands without leaving clear traces. Enabling transcription ensures that all PowerShell input and output are captured and saved to disk for auditing and incident response.
+<img width="1171" alt="Screenshot 2025-07-06 at 08 52 57" src="https://github.com/user-attachments/assets/3fac1b00-5725-482c-a241-0350cc539491" />
+
+
+
 
 This remediation configures the required registry settings to enable transcription, sets a secure output directory for the transcript logs, and includes invocation headers for better forensic context.
 
